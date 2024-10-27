@@ -1,0 +1,18 @@
+package ferreteriavecino;
+
+
+public class Pedidos {
+    public static void main(String[] args) {
+    
+    
+    System.out.println("Productos pedidos");
+        
+            String material = "Tornillos";
+            int tot = 100;
+            
+                System.out.println("Nombre: " + material);
+                System.out.println("cantidad: " + tot);
+    
+    
+    }   
+}
